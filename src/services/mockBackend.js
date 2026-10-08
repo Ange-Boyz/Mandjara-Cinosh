@@ -46,8 +46,8 @@ const BASE_SOLD = 38; // seats already sold before this session
 function baseScreening() {
   return {
     id: 'scr_2026_10_17',
-    slug: 'sango-malo',
-    title: 'Sango Malo',
+    slug: 'My Village People',
+    title: 'My Village People',
     tagline: 'Some stories are better experienced together.',
     synopsis:
       'A young teacher arrives in a village determined to change how its school is run, and discovers that the village has its own ideas about what a good education is. A story about learning, authority and who decides what a community teaches its children.',
@@ -57,7 +57,7 @@ function baseScreening() {
     runtimeMinutes: 93,
     rating: 'PG',
     trailerUrl: '',
-    posterUrl: '',
+    posterUrl: 'https://africanvibes.storage.googleapis.com/wp-content/uploads/2022/08/04004724/my-village-people-820x1025.jpg',
     startsAt: '2026-10-17T18:00:00+01:00',
     doorsOpenAt: '2026-10-17T17:00:00+01:00',
     venue: 'Mandjara Screening Hall',
