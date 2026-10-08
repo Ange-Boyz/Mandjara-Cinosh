@@ -1,0 +1,24 @@
+{
+  "name": "mandjara-cinosh-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Public website and ticketing front end for Mandjara Cinosh, a weekly cultural cinema in Buea, Cameroon.",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "qrcode.react": "^4.2.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.0"
+  }
+}
